@@ -1,9 +1,5 @@
-An Access Control module.
--------------------------
-
-:warning: Doesn't contain other modules that are required for it to work. :warning:
-
----
+An ACL module.
+--------------
 
 The access control system.
 Allows to control the access in a flexible way
@@ -17,3 +13,4 @@ Doesn't require configuration/decorators/whatever in the client code.
 Just import the module, use the Guard and create ACLs.
 
 
+:warning:Doesn't contain other modules that are required for it to work.:warning:
